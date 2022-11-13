@@ -158,7 +158,7 @@
     "prettier": "^2.1.2",
     "process": "^0.11.10",
     "puppeteer": "^5.5.0",
-    "replace": "^1.2.0",
+    "replace": "^1.2.2",
     "robots-parser": "^2.1.1",
     "start-server-and-test": "^1.12.0",
     "strip-ansi": "^6.0.0",
